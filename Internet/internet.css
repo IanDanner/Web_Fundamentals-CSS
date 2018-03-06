@@ -1,0 +1,202 @@
+* {
+    margin: 0px auto;
+    padding: 0px;
+}
+#wrapper {
+    margin: 10px;
+    font-family: sans-serif;
+}
+.textWhite {
+    color: white;
+}
+.lightBlue {
+    color: #14C3DF;
+}
+.blue1 {
+    color: #7ADAE9;
+}
+.blue2 {
+    color: #BCECF4;
+}
+.shadow {    
+    box-shadow: 1px 1px 1px 1px #ABABAB;
+    border: none;
+}
+#header {
+    width: 970px;
+}
+#header img {
+    width: 108px;
+    position: absolute;
+    z-index: relative;
+}
+h1 {
+    display: inline-block;
+    vertical-align: top;
+    padding: 30px 0px 5px 110px;
+    font-weight: normal;
+    font-size: 48px;
+    color: #474747;
+}
+h1 span {
+    color: #23649E;
+}
+h2 {
+    background: linear-gradient(#26669F, #5283AC, #26669F);
+    padding: 12px 20px;
+    font-weight: normal;
+    font-size: 33px;
+}
+#content {
+    width: 970px;
+    background: linear-gradient(#E4E4E4, white, white, white);
+}
+.leftColumn {
+    display: inline-block;
+    width: 220px;
+}
+.leftColumnTop {
+    padding: 5px;
+    height: 230px;
+    border-bottom: 1px solid gray;
+}
+.leftColumnTop h5 {
+    font-size: 15px;
+    font-weight: 800;
+    margin: 20px 0px 10px;
+}
+.spanRed {
+    color: #DA2721;
+}
+.leftColumnTop p {
+    font-size: 15px;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+.spanBlue {
+    color: #457CAC;
+}
+button {
+    display: block;
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 5px;
+    width: 200px;
+    font-weight: 700;
+    font-size: 16px;
+}
+.buttonBlue {
+    background: linear-gradient(#92B7D5,#24669F);
+}
+.buttonYellow {
+    background: linear-gradient(#EBAC54,#EF7200);
+}
+.leftColumnBottom {
+    margin-top: 30px;
+    background-image: url(images/ad_background.png);
+    width: 220px;
+    height: 310px;
+}
+.leftColumnBottom h4 {
+    font-weight: 100;
+    padding: 30px 20px 0px;
+    font-size: 25px;
+    text-align: center;
+}
+.leftColumnBottom img {
+    width: 90px;
+    padding: 0px 65px 10px;
+}
+.buttonLightBlue {
+    background: linear-gradient(lightblue, #14C3DF);
+    width: 180px;
+    box-shadow: 1px 1px 1px 1px #25282C;
+}
+.rightContent {
+    display: inline-block;
+    vertical-align: top;
+    width: 745px;
+}
+.rightContentUpper {
+    width: 715px;
+    margin-left: 15px;
+    border-bottom: 1px solid grey;
+}
+.house {
+    width: 24px;
+    padding: 10px 0px 0px 5px;
+}
+.rightContentUpper .spanBlue {
+    display: inline-block;
+    font-weight: bold;
+    vertical-align: top;
+    padding: 15px 0px;
+}
+.phone {
+    width: 40px;
+    vertical-align: top;
+    padding: 12px 0px 0px 440px;
+}
+.phoneInfo {
+    display: inline-block;
+    width: 148px;
+    padding: 5px 0px 10px 5px;
+    vertical-align: top;
+    text-align: right;
+}
+.time {
+    font-size: 10px;
+}
+.number{
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 28px;
+}
+.rightContentCenter {
+    width: 715px;
+    margin-left: 15px;
+}
+h3 {
+    color: #457CAC;
+    padding: 10px 0px 5px;
+}
+.rightContentCenter p {
+    padding-bottom: 10px;
+    font-size: 15px;
+}
+ul {
+    padding-left: 30px;
+    font-size: 15px;
+}
+li {
+    padding-bottom: 10px
+}
+.rightContentCenter img {
+    width: 300px;
+    padding-left: 200px;
+}
+ol {
+    padding-left: 30px;
+    font-size: 15px;
+}
+.rightContentLower {
+    width: 675px;
+    height: 110px;
+    margin: 10px 0px 0px 15px;
+    border: 5px solid #0085E0;
+    border-bottom: 0;
+    padding: 5px 15px;
+}
+.rightContentLower img {
+    width: 130px;
+    padding: 10px 10px 0px 0px;
+}
+.big3 {
+    display: inline-block;
+    width: 530px;
+    vertical-align: top;
+}
+.big3 p {
+    padding-bottom: 5px;
+    font-size: 15px;
+}

@@ -1,0 +1,106 @@
+* {
+    margin: 0px auto;
+    padding: 0px;
+}
+#wrapper {
+    margin: 10px auto;
+    width: 970px;
+    height: 1080px;
+    font-family: sans-serif;
+}
+#header {
+    background: linear-gradient(#f1f1f1, white);
+    padding: 10px 20px;
+}
+h1 {
+    display: inline-block;
+    margin-right: 350px;
+    font-family: "Comic Sans MS";
+}
+#header h2 {
+    display: inline-block;
+}
+#content {
+    background: radial-gradient(#6f5964, #1a0a0e);
+    padding: 20px 0px 20px 20px;
+}
+.portrait {
+    display: inline-block;
+    background-color: #c0c0c0;
+    padding: 5px;
+    width: 448px;
+    height: 305px;
+    margin-right: 20px;
+}
+.about {
+    display: inline-block;
+    width: 448px;
+    height: 305px;
+    vertical-align: top;
+}
+.infoHeader {
+    display: block;
+    background: linear-gradient(#c0c0c0, gray, #c0c0c0);
+    padding: 10px;
+    color: white;
+}
+.aboutP {
+    background: linear-gradient(-90deg, #c0c0c0, white);
+    padding: 10px;
+    height: 247px;
+}
+.about p {
+    margin: 10px 0px;
+}
+.column {
+    display: inline-block;
+    width: 293px;
+    margin: 20px 20px 0px 0px;
+    font-size: 14px;
+}
+.columnImg {
+    display: block;
+    width: 293px;
+}
+.columnP {
+    background: linear-gradient(-90deg, #c0c0c0, white);
+    height: 150px;
+    padding: 10px;
+}
+.tech {
+    background: linear-gradient(-90deg, #c0c0c0, white);
+    height: 180px;
+}
+.techImgs {
+    padding: 10px 0px 10px 10px;
+}
+.tech img {
+    display: inline-block;
+    width: 43px;
+    margin: 0px 10px 10px 0px;
+}
+button {
+    display: block;
+    background-color: #407d61;
+    padding: 5px;
+    border: 1px solid black;
+    color: white;
+    border-radius: 10px;
+    font-weight: bold;
+    box-shadow: 4px 4px #bcb8bc;
+}
+#footer {
+    background: linear-gradient(white, #f1f1f1);
+    padding: 15px;
+    text-align: center;
+}
+#footer p {
+    margin-bottom: 10px;
+}
+.personalInfo {
+    width: 20px;
+    vertical-align: top;
+}
+a {
+    color: black;
+}

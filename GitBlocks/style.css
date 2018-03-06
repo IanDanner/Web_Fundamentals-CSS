@@ -1,0 +1,135 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper{
+    width: 970px;
+    /* height: 1000px; */
+    background-color: #DDDFD4;
+    margin: 10px auto;
+    font-family: monospace;
+}
+
+.header{
+    display: inline-block;
+    width: 940px;
+    height: 60px;
+    background-color: #38B0AD;
+    margin: 15px;
+}
+
+.header img{
+    height: 40px;
+    margin: 10px 0px 15px 10px;
+    mix-blend-mode: multiply;
+}
+
+.header h1{
+    display: inline-block;
+    line-height: 60px;
+    vertical-align: top;
+    font-size: 30px;
+    font-weight: normal;
+    margin-right: 90px;
+}
+
+.header a{
+    display: inline-block;
+    line-height: 60px;
+    vertical-align: top;
+    color: white;
+    font-size: 14px;
+    margin-right: 10px;
+}
+
+.center-content{
+    display: inline-block;
+    width: 940px;
+    height: 555px;
+    background-color: #FBE691;
+    margin: 0px 15px;
+    color: white;
+}
+
+.center-content p{
+    margin: 10px 20px;
+    font-size: 14px;
+}
+
+.center-content p a{
+    text-decoration: none;
+    color: #4AD6C6;
+}
+
+.content-boxes-color{
+    background-color: #153F43;
+}
+
+.left-column{
+    display: inline-block;
+    width: 245px;
+    height: 525px;
+    margin: 15px;
+}
+
+.left-column h1{
+    margin: 10px;
+    font-weight: normal;
+    font-size: 21px;
+}
+
+.right-container{
+    display: inline-block;
+    width: 655px;
+    height: 540px;
+    /* background-color: green; */
+    vertical-align: top;
+}
+
+.right-container h2{
+    margin: 10px;
+    font-weight: normal;
+    font-size: 16px;
+}
+
+.top-boxes{
+    display: inline-block;
+    width: 179px;
+    height: 174px;
+    margin: 15px;
+    vertical-align: top;
+}
+
+.middle-boxes{
+    display: inline-block;
+    width: 288px;
+    height: 145px;
+    margin: 15px;
+}
+
+.lower-box{
+    display: inline-block;
+    width: 613px;
+    height: 146px;
+    margin: 15px;
+}
+
+.footer{
+    display: inline-block;
+    width: 940px;
+    height: 74px;
+    margin: 8px 15px 15px;
+    background-color: #38B0AD;
+    text-align: center;
+}
+
+.footer p{
+    line-height: 74px;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.footer p a{
+    color: #54168D;
+}
